@@ -10,6 +10,6 @@ namespace GitWorking
     {
         public int ID { get; set; }
         public int HouseNo { get; set; }
-        public string NearBy { get; set; }
+        public string? NearBy { get; set; }
     }
 }
