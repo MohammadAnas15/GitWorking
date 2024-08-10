@@ -1,4 +1,4 @@
-﻿
+﻿Console.WriteLine("Enter some thing Any Alphabet");
 string input="";
 while (input!="stop")
 {
